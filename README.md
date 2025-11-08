@@ -53,7 +53,7 @@ When the LDR senses a dark shape (a cactus), the Arduino moves a **servo motor**
 ## Project Images
 
 ### Servo Setup
-![Servo]<img src="media/servo.png" width="300">
+![Servo]<img src="media/servo.jpeg" width="300">
 
 
 ### LDR Placement
