@@ -64,9 +64,13 @@ When the LDR senses a dark shape (a cactus), the Arduino moves a **servo motor**
 <img src="media/image.jpeg" width="300">
 
 ---
-## Showcase
-[Watch the demo video](media/video.gif)
-![Demo](media/demo.gif)
+## 🎥 Demo Videos
+
+### Video 1 – Automatic Dino Jump
+[![Video 1](https://img.youtube.com/vi/wS-sdg4_uz4/hqdefault.jpg)](https://youtube.com/shorts/wS-sdg4_uz4)
+
+### Video 2 – LDR + Servo Test
+[![Video 2](https://img.youtube.com/vi/wBwm4EvtvtY/hqdefault.jpg)](https://youtube.com/shorts/wBwm4EvtvtY)
 
 
 ---
