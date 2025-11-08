@@ -50,6 +50,18 @@ When the LDR senses a dark shape (a cactus), the Arduino moves a **servo motor**
 
 ---
 
+## Project Images
+
+### Servo Setup
+![Servo](media/servo.jpeg)
+
+### LDR Placement
+![LDR on Screen](media/image2.jpeg)
+
+### Final Build
+![Final Build](media/image1.jpeg)
+
+---
 ## 📝 Notes
 - Adjust the **threshold value** depending on monitor brightness.
 - Keep room lighting stable.
