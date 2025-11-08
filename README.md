@@ -55,5 +55,4 @@ When the LDR senses a dark shape (a cactus), the Arduino moves a **servo motor**
 - Keep room lighting stable.
 - Make sure the servo horn is aligned with the spacebar for reliable jumping.
 
----
 
